@@ -16,6 +16,8 @@ NymLabs finds collaborative work and visibility as boosters of new developments.
    * [Solution](#solution-brief)
       * [Projects](#projects)
       * [Feed](#feed)
+        * [Following](#following)
+        * [General Feed](#general-feed)
       * [Services cataloge](#services)
         * [Local Services](#local-services)
         * [Big Services](#big-services)
