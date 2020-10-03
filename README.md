@@ -2,7 +2,7 @@
 
 NymLabs - Space Development Everywhere
 
-### Provide a high-level summary of your project 700 (9 lineas)
+### Provide a high-level summary of your project 
 
 Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of project’s databases translates into a weak rate of emergence of new ventures.
 
