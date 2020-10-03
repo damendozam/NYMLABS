@@ -1,3 +1,4 @@
+![](https://github.com/damendozam/NYMLABS/blob/main/Images/logo.jpg)
 ### Project Title
 
 NymLabs - Space Development Everywhere
