@@ -36,10 +36,11 @@ FALTA HABLAR DE LAS CONSECUENCIAS QUE TIENE LO ANTERIOR, QUIZAS AHONDAR UN POCO 
 
 ## SOLUTION
 
-NymLabs offers a platform that allows the project-project, project-organization, project-bussiness and organization bussines relati
+The platform is intended to be used by independent researchers, research groups, startups, companies, educational institutions, professionals, environmental protection agencies, and many others. People would start by creating a personal account, in which person account users can create and manage organization and project accounts, generate participation requests, track projects of interest, and access a personalized service catalog. As a result of these facilities, collaborative work within the projects and their visibility will be promoted, as well as the strengthening of existing companies that provide services and products.
 
-EXPLICAR QUIÉNES USAN LAPLATAFORMA Y DE QUE FORMA SE PEUDEN REGISTRAR.
-UNA BREVE INTRODUCCIÓN A LAS SECCIONES
+PANTALLAZOS DE APLICACIÓN (INICIO DE SESIÓN, PERFILES, SERVICIOS)
+
+The web-app is divided into 4 sections, Projects, Feed, Services Catalog and My account. Each one of these sections are described in detail below.
 
 ### Projects
 EXPLICAR SISTEMA DE TAGS
