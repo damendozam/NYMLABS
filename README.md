@@ -18,8 +18,8 @@ Any person or organization interested in developing, collaborating, or enrolling
         * [Following](#following)
         * [General Feed](#general-feed)
       * [Services catalog](#services-catalog)
-        * [Local Services](#local-services)
-        * [Global Services](#global-services)
+        * [Local Resources](#local-resources)
+        * [Technology Resources](#technology-resources)
         * [support content](#support-content)
       * [My account](#my-account)
    * [Impact](#impact)
@@ -84,7 +84,7 @@ PANTALLAZO SECCIÓN GENERAL FEED
 
 This section is divided into 3 main subsections, Local services, Large-Scale Services and Support Content. 
 
-#### Local Services
+#### Local Resources
 
 In this subsection is presented all the services our local partners share to give you a better working experience having an integral and connected environment. Here you can see people who offer their services in your country or near your place, some companies working in subjects such as PCB design and mechanical manufacturing could give a hand!
 
@@ -92,10 +92,40 @@ From the point of view of the business, they have the chance to offer all their 
 
 PANTALLAZO SECCIÓN LOCAL
 
-#### Global Services
-a
+#### Technology Resources
+
+In this section the user can find relevant information (Plans, prices, descriptions, comparatives) about global services suchs as Open Datasets from NASA; AWS Cloud Platforms or task management apps. In the Support Content subsection the users can get some additional info about how to use the data and tools they can find here.
+
+PANTALLAZO SECCIÓN technologic
+
 #### Support Content
-a
+
+This section was designed to locate useful information and links. This information is verified and arranged by the NymLabs team. The data is categorized by topics and type of data. 
+
+Initially are considered 3 main topics, Startups Development, Dataset Management and Academic Content. Moreover, it’s created a Community Content section, addressed to receive posts with useful information from the users. 
+
+It should be mentioned that the content shown in these sections does not belong to NymLabs, it corresponds to official external third parties.
+
+
+##### StartUp Development
+
+Here, the users can find tutorials and courses related to all they could need to know to start their  space business. 
+
+##### Dataset Management
+
+Here you could find content to learn to access and use different kinds of datasets. 
+
+##### Academic content
+
+This subsection correspond to verified content to learn technical and scientific topics that would help you in your space project.
+
+##### Community content
+
+This content is uploaded by the community. This is an excellent opportunity for those users who create tutorials and material of interest for the space community.
+All the content posted here is briefly filtered. Nevertheless, all these posts are taken into account to be verified in order to arrange it in the categorized sections.
+
+PANTALLAZO SECCIÓN COMMUNITY
+
 ### My Account
 a
 ## IMPACT
