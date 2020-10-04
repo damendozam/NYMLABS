@@ -67,9 +67,16 @@ This section shows a list with all the projects and their basic information in a
 PANTALLAZO CON PANTALLA DE LISTA DE PROYECTOS
 
 ### Feed
-DECIR QUE ESTA SECCIÓN ESTÁ DVIDIDA EN DOS, UNA QUE SE ENFOC EN LOS PROYECTOS QUE UNO SIGUE, Y LA OTRA EN SUGERENCIAS Y DEMÁS
+
+Keeping track of projects, organizations, and topics of interest is a necessary tool to achieve continuous new collaborations and the emergence of new projects. This section has two ways to keep the user informed about updates and new releases. One way, called "Following", shows updates related to the projects and the organization that the user follows, while the other view, called "General feed", shows the projects and organizations recommended to users based on their interests, along with relevant data about international organizations such as space agencies and programs.
+
 #### Following
-EN ESTA SECCIÓN SE PUEDE VER LA ACTIVIDAD DE LOS PROEYECTOS QUE UNO SIGUE Y SU REPECTIVAS ORGANIZACIONES. ESTO SE ORDENARIA EN UNA LISTA DONDE SE MANTENDRÍA EN EL TOP LOS PROYECTOS CON ACTIVIDAD MAS RECIENTE Y LOS QUE REPRESENTEN MAS INTERÉS PARA EL USUARIO
+
+As mentioned earlier this subsection shows the projects the user is subscribed to. It shows the activities and updates made by the other members of the projects. The way in which this activity is displayed is through a list of projects where the order is defined by the project activity and the interest shown by the user in each project. In this way, users can continue to review projects that interest them more quickly.
+
+PANTALLAZO SECCIÓN FOLLOWING
+
+
 #### General Feed
 AQUI SE MUESTRAN SUGUERENCIAS TALES COMO NUEVOS PROYECTOS SIMILARES A LOS QUE SIGO, OTROS PROYECTOS DE ORGANIACIONES A LAS QUE SIGO, INFORAMCIÓN RELEVANTE DE LAS AGENCIAS ESPACIALES ETC..
 ### Services Cataloge
