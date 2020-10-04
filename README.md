@@ -28,14 +28,15 @@ Any person or organization interested in developing, collaborating, or enrolling
 
 ## Description of the problem
 
-Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups and academic projects play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of active project’s databases translates into a weak rate of emergence of new ventures.
+Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups and academic projects play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of official space agencies and programs in most countries added to the lack of integration of active project’s databases translates into a weak rate of emergence of new ventures. 
 
 
 
-FALTA HABLAR DE LAS CONSECUENCIAS QUE TIENE LO ANTERIOR, QUIZAS AHONDAR UN POCO MAS EN EL PROBLEMA, HACIENDO USO DE NÚMEROS
+FALTA HABLAR DE LAS CONSECUENCIAS QUE TIENE LO ANTERIOR, QUIZAS AHONDAR UN POCO MAS EN EL PROBLEMA, HACIENDO USO DE NÚMEROS (Cantidad de grupos de investigación en colombia, empresas en el campo espacial, esfuerzos existentes)
 
 ## SOLUTION
 
+NymLabs offers a platform that allows the project-project, project-organization, project-bussiness and organization bussines relati
 
 EXPLICAR QUIÉNES USAN LAPLATAFORMA Y DE QUE FORMA SE PEUDEN REGISTRAR.
 UNA BREVE INTRODUCCIÓN A LAS SECCIONES
