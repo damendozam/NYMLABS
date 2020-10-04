@@ -36,7 +36,7 @@ Great advances in space technology are often connected to later improvements in 
 
 The platform is intended to be used by independent researchers, research groups, startups, companies, educational institutions, professionals, environmental protection agencies, and many others. People would start by creating a personal account, in which person account users can create and manage organization and project accounts, generate participation requests, track projects of interest, and access a personalized service catalog. As a result of these facilities, collaborative work within the projects and their visibility will be promoted, as well as the strengthening of existing companies that provide services and products.
 
-PANTALLAZOS DE APLICACIÓN (INICIO DE SESIÓN, PERFILES, SERVICIOS)
+<img src="Images/1.png" width="100%"> 
 
 The web-app is divided into 4 sections, Projects, Feed, Services Catalog and My account. Each one of these sections are described in detail below.
 
