@@ -62,24 +62,30 @@ The users could filter their searches by those 5 symbols. We also use a tag syst
 </p>
 This section shows a list with all the projects and their basic information in a card format. By clicking on the project of interest, all the data shown above is displayed. Additionally, the user could start following any project of their interest just by clicking on the follow button.
 
-PANTALLAZO CON PANTALLA DE LISTA DE PROYECTOS
+<p align="center">
+<img src="Images/4.png" width="33%"> 
+</p>
 
 ### Feed
 
 Keeping track of projects, organizations, and topics of interest is a necessary tool to achieve continuous new collaborations and the emergence of new projects. This section has two ways to keep the user informed about updates and new releases. One way, called "Following", shows updates related to the projects and the organization that the user follows, while the other view, called "General feed", shows the projects and organizations recommended to users based on their interests, along with relevant data about international organizations such as space agencies and programs.
 
-  #### Following
+#### Following
 
 As mentioned earlier this subsection shows the projects the user is subscribed to. It shows the activities and updates made by the other members of the projects. The way in which this activity is displayed is through a list of projects where the order is defined by the project activity and the interest shown by the user in each project. In this way, users can continue to review projects that interest them more quickly.
 
-PANTALLAZO SECCIÓN FOLLOWING
+<p align="center">
+<img src="Images/5.png" width="33%"> 
+</p>
 
 
-  #### General Feed
+#### General Feed
 
 All projects with tags similar to the projects you follow, each new project from an organization you already follow, and the latest releases from space agencies and programs related to your interest will be displayed here. This will allow the user to explore new projects and news in a more efficient and personalized way.
 
-PANTALLAZO SECCIÓN GENERAL FEED
+<p align="center">
+<img src="Images/6.png" width="33%"> 
+</p>
 
 ### Services Cataloge
 
@@ -91,13 +97,17 @@ In this subsection is presented all the services our local partners share to giv
 
 From the point of view of the business, they have the chance to offer all their services and products to hundreds of projects through this subsection. Consequently, the growth will not be just for the new startups but also for the existing industry.
 
-PANTALLAZO SECCIÓN LOCAL
+<p align="center">
+<img src="Images/7.png" width="33%"> 
+</p>
 
 #### Technology Resources
 
 In this section the user can find relevant information (Plans, prices, descriptions, comparatives) about global services suchs as Open Datasets from NASA; AWS Cloud Platforms or task management apps. In the Support Content subsection the users can get some additional info about how to use the data and tools they can find here.
 
-PANTALLAZO SECCIÓN technologic
+<p align="center">
+<img src="Images/8.png" width="33%"> 
+</p>
 
 #### Support Content
 
@@ -125,13 +135,16 @@ This subsection correspond to verified content to learn technical and scientific
 This content is uploaded by the community. This is an excellent opportunity for those users who create tutorials and material of interest for the space community.
 All the content posted here is briefly filtered. Nevertheless, all these posts are taken into account to be verified in order to arrange it in the categorized sections.
 
-PANTALLAZO SECCIÓN COMMUNITY
+<p align="center">
+<img src="Images/9.png" width="33%"> 
+</p>
 
 ### My Account
 
 This section is a configuration section. Shows information related to users, such as profiles and professional interests regarding a branch of research or development, registered projects, etc. Also from here users can create and edit their projects and organizations. Also, they can check the status of their applications to other projects from this window.
 
-PANTALLAZOS SECCIÓN MY ACCOUNT 
+<img src="Images/10.png" width="100%"> 
+
 
 ## IMPACT
 
