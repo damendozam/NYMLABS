@@ -12,7 +12,7 @@ Any person or organization interested in developing, collaborating, or enrolling
 ## Table of Contents
 <!--ts-->
    * [Description of the Problem](#description-of-the-problem)
-   * [Solution](#solution-brief)
+   * [Solution](#solution)
       * [Projects](#projects)
       * [Feed](#feed)
         * [Following](#following)
