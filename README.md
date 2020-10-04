@@ -19,7 +19,7 @@ Any person or organization interested in developing, collaborating, or enrolling
         * [General Feed](#general-feed)
       * [Services catalog](#services-catalog)
         * [Local Services](#local-services)
-        * [Long-Scale Services](#long-scale-services)
+        * [Global Services](#global-services)
         * [support content](#support-content)
       * [My account](#my-account)
    * [Impact](#impact)
@@ -28,23 +28,7 @@ Any person or organization interested in developing, collaborating, or enrolling
 
 ## Description of the problem
 
-Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of project’s databases translates into a weak rate of new startups. This can be reflected in the low number of organizations in Latin America which are members of the IAF, having just 21 active members in one of the most important space networks in the world.
-
-According to Greg Bahlmann from Tribe Mine Blog there are six important online networking platforms or “B2B Social networks”, these have the following tools: 
-
-- Messaging 
-- Engagement 
-- Mobile App
-- Profile Building
-- Connection Ranking
-- Reconnection Reminders
-- Community Support
-- Off site Profile Building
-- Advertising
-- Free Tier
-- Memberships
-
-We noticed that no network has tools to engage with projects instead just with companies of individuals, also we realized that these tools do not have resources to improve the development of the projects after the connection.
+Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of project’s databases translates into a weak rate of new startups. Some groups and organizations try to narrow this disconnection gap through the realization of divulgation events such as the “Bootcamp Colombia, A Mission to Mars” and the “Argentine Congress of Space Technology”. Nevertheless, although these kinds of events have a real impact on the disclosure of the space field, they are not a permanent tool for visibility and collaborative work within projects.
 
 
 ## SOLUTION
@@ -98,11 +82,17 @@ PANTALLAZO SECCIÓN GENERAL FEED
 
 ### Services Cataloge
 
-
+This section is divided into 3 main subsections, Local services, Large-Scale Services and Support Content. 
 
 #### Local Services
-a
-#### Long-scale Services
+
+In this subsection is presented all the services our local partners share to give you a better working experience having an integral and connected environment. Here you can see people who offer their services in your country or near your place, some companies working in subjects such as PCB design and mechanical manufacturing could give a hand!
+
+From the point of view of the business, they have the chance to offer all their services and products to hundreds of projects through this subsection. Consequently, the growth will not be just for the new startups but also for the existing industry.
+
+PANTALLAZO SECCIÓN LOCAL
+
+#### Global Services
 a
 #### Support Content
 a
