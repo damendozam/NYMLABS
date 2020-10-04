@@ -43,7 +43,26 @@ PANTALLAZOS DE APLICACIÓN (INICIO DE SESIÓN, PERFILES, SERVICIOS)
 The web-app is divided into 4 sections, Projects, Feed, Services Catalog and My account. Each one of these sections are described in detail below.
 
 ### Projects
-EXPLICAR SISTEMA DE TAGS
+
+Every project created in the platform counts with a defined structure. This structure is composed by:
+
+- Title
+- Brief description
+- Type of Project (Academic, Startup, Business)
+- Responsable(s)
+- Indicate if it is looking to onboard new people
+- If they are looking for members, indicate type of enrollment (paid or voluntary)
+- Tags
+
+In order to specify the type of project, if they are looking to onboard new people and if the kind of enrollment, we use the following 5 symbols. 
+
+IMAGEN CON LOS SÍMBOLOS, INDICANDO QUÉ SIGNIFICA CADA UNO
+
+The users could filter their searches by those 5 symbols. We also use a tag system to make filtering by topics. These tags are provided by the creator of the project profile.
+
+PANTALLAZO CON PANTALLA DE FILTRO DE PROYECTOS
+
+
 COMENTAR QUE EN ESTA SECCIÓN SE PUEDE VER LOS PROYECTOS QUE SE ESTÁN DESARROLLANDO, JUTNO CON INFORMACIÓN BÁSICA DE CADA UNO EN FORMA DE TARJETAS. APARTE SE PEUDE CONSULTAR SI UN PROYECTO ESTÁ RECLUTANDO GENTE O NO, SI UN PROYECTO ES ACADÉMICO O DE QUE TIPO Y POR ULTIMO SI ES REMUNERADO.
 CUANDO UNO LE DA CLICK AL PROYECTO PUEDE VER MAS INFORAMCIÓN TAL COMO MIEMBROS ORGANIZACIÓN, COLABORADORES, ACTUALIZACIONES ETC.
 TERMINA DICIENDO QUE UNO PUEDE SEGUIR PROYECTOS
