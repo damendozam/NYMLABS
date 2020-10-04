@@ -67,14 +67,14 @@ PANTALLAZO CON PANTALLA DE LISTA DE PROYECTOS
 
 Keeping track of projects, organizations, and topics of interest is a necessary tool to achieve continuous new collaborations and the emergence of new projects. This section has two ways to keep the user informed about updates and new releases. One way, called "Following", shows updates related to the projects and the organization that the user follows, while the other view, called "General feed", shows the projects and organizations recommended to users based on their interests, along with relevant data about international organizations such as space agencies and programs.
 
-#### Following
+  #### Following
 
 As mentioned earlier this subsection shows the projects the user is subscribed to. It shows the activities and updates made by the other members of the projects. The way in which this activity is displayed is through a list of projects where the order is defined by the project activity and the interest shown by the user in each project. In this way, users can continue to review projects that interest them more quickly.
 
 PANTALLAZO SECCIÓN FOLLOWING
 
 
-#### General Feed
+  #### General Feed
 
 All projects with tags similar to the projects you follow, each new project from an organization you already follow, and the latest releases from space agencies and programs related to your interest will be displayed here. This will allow the user to explore new projects and news in a more efficient and personalized way.
 
