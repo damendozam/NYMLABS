@@ -5,7 +5,7 @@ _**Space Development Everywhere**_
 <br>
 <p align="center">
 NymLabs is a web-app that aims to boost the emergence of new space technology ventures from promoting collaborative work and visibility of space projects in addition to the access to local and international resources and services. 
-Any person or organization interested in developing, collaborating, or enrolling in a project could create an account and either add a new project or request to work on another project. All the projects will be visible and categorized in web-app. The users could follow all the projects or tags of their interest. Project leaders looking to onboard new people could access selected user profiles that fit the project requirements.  Project members will have access to a service catalog, where they can find local services, long-scale services, and support content. Local businesses could display their services through catalog services. Large services and resources, such as NASA Open Data Sets or AWS Cloud Platforms, will also show up in the Service Catalog.
+Any person or organization interested in developing, collaborating, or enrolling in a project could create an account and either add a new project or request to work on another project. All the projects will be visible and categorized in web-app. The users could follow all the projects or tags of their interest. Project leaders looking to onboard new people could access selected user profiles that fit the project requirements.  Project members will have access to a service catalog, where they can find local services, large-scale services, and support content. Local businesses could display their services through catalog services. Large services and resources, such as NASA Open Data Sets or AWS Cloud Platforms, will also show up in the Service Catalog.
 </p>
 
 
@@ -28,11 +28,24 @@ Any person or organization interested in developing, collaborating, or enrolling
 
 ## Description of the problem
 
-Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups and academic projects play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of official space agencies and programs in most countries added to the lack of integration of active project’s databases translates into a weak rate of emergence of new ventures. 
+Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of project’s databases translates into a weak rate of new startups. This can be reflected in the low number of organizations in Latin America which are members of the IAF, having just 21 active members in one of the most important space networks in the world.
 
+According to Greg Bahlmann from Tribe Mine Blog there are six important online networking platforms or “B2B Social networks”, these have the following tools: 
 
+- Messaging 
+- Engagement 
+- Mobile App
+- Profile Building
+- Connection Ranking
+- Reconnection Reminders
+- Community Support
+- Off site Profile Building
+- Advertising
+- Free Tier
+- Memberships
 
-FALTA HABLAR DE LAS CONSECUENCIAS QUE TIENE LO ANTERIOR, QUIZAS AHONDAR UN POCO MAS EN EL PROBLEMA, HACIENDO USO DE NÚMEROS (Cantidad de grupos de investigación en colombia, empresas en el campo espacial, esfuerzos existentes)
+We noticed that no network has tools to engage with projects instead just with companies of individuals, also we realized that these tools do not have resources to improve the development of the projects after the connection.
+
 
 ## SOLUTION
 
@@ -78,8 +91,14 @@ PANTALLAZO SECCIÓN FOLLOWING
 
 
 #### General Feed
-AQUI SE MUESTRAN SUGUERENCIAS TALES COMO NUEVOS PROYECTOS SIMILARES A LOS QUE SIGO, OTROS PROYECTOS DE ORGANIACIONES A LAS QUE SIGO, INFORAMCIÓN RELEVANTE DE LAS AGENCIAS ESPACIALES ETC..
+
+All projects with tags similar to the projects you follow, each new project from an organization you already follow, and the latest releases from space agencies and programs related to your interest will be displayed here. This will allow the user to explore new projects and news in a more efficient and personalized way.
+
+PANTALLAZO SECCIÓN GENERAL FEED
+
 ### Services Cataloge
+
+
 
 #### Local Services
 a
