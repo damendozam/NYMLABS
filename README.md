@@ -57,9 +57,9 @@ In order to specify the type of project, if they are looking to onboard new peop
 IMAGEN CON LOS SÍMBOLOS, INDICANDO QUÉ SIGNIFICA CADA UNO
 
 The users could filter their searches by those 5 symbols. We also use a tag system to make filtering by topics. These tags are provided by the creator of the project profile.
-
-<img src="Images/3.png" width="40%"> 
-
+<p align="center">
+<img src="Images/3.png" width="25%"> 
+</p>
 This section shows a list with all the projects and their basic information in a card format. By clicking on the project of interest, all the data shown above is displayed. Additionally, the user could start following any project of their interest just by clicking on the follow button.
 
 PANTALLAZO CON PANTALLA DE LISTA DE PROYECTOS
