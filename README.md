@@ -23,6 +23,7 @@ Any person or organization interested in developing, collaborating, or enrolling
         * [support content](#support-content)
       * [My account](#my-account)
    * [Impact](#impact)
+   * [The Team](#the-team)
    * [References](#references)
 <!--te-->
 
@@ -127,9 +128,19 @@ All the content posted here is briefly filtered. Nevertheless, all these posts a
 PANTALLAZO SECCIÓN COMMUNITY
 
 ### My Account
-a
+
+This section is a configuration section. Shows information related to users, such as profiles and professional interests regarding a branch of research or development, registered projects, etc. Also from here users can create and edit their projects and organizations. Also, they can check the status of their applications to other projects from this window.
+
+PANTALLAZOS SECCIÓN MY ACCOUNT 
+
 ## IMPACT
-a
+
+This platform improves communication and connection between high level companies, low level companies and space enthusiasts making it easier to join efforts to get more impactful and wider developments that can be appreciated by bigger companies, institutions and gubernamental entities.
+
+## THE TEAM
+
+FOTO DE TODOS
+
 ## REFERENCES
 a
 
