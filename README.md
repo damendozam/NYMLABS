@@ -4,11 +4,8 @@ _**Space Development Everywhere**_
 <img src="Images/logo.jpeg" width="100%"> 
 <br>
 <p align="center">
-Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of project’s databases translates into a weak rate of emergence of new ventures.
-
-NymLabs finds collaborative work and visibility as boosters of new developments. Consequently, it is proposed a “Social network for projects” that allows to show and interact with other developments, while offering useful tools for the growth of projects.
-
-HAY QUE CAMBIAR TODO ESTO POR UN SOLO PÁRRAFO QUE DESCRIBA LO QUE OFRECE LA APLICACIÓN
+NymLabs is a web-app that aims to boost the emergence of new space technology ventures from promoting collaborative work and visibility of space projects in addition to the access to local and international resources and services. 
+Any person or organization interested in developing, collaborating, or enrolling in a project could create an account and either add a new project or request to work on another project. All the projects will be visible and categorized in web-app. The users could follow all the projects or tags of their interest. Project leaders looking to onboard new people could access selected user profiles that fit the project requirements.  Project members will have access to a service catalog, where they can find local services, great services, and support materials. Local businesses could display their services through catalog services. Large services and resources, such as NASA Open Data Sets or AWS Cloud Platforms, will also show up in the Service Catalog.
 </p>
 
 
