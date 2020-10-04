@@ -28,7 +28,9 @@ Any person or organization interested in developing, collaborating, or enrolling
 
 ## Description of the problem
 
-Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of project’s databases translates into a weak rate of emergence of new ventures.
+Great advances in space technology are often connected to later improvements in other sectors of the economy. Small and medium-sized startups and academic projects play a fundamental role in the transfer of all these technologies to the economic branches of daily life. However, in Latin America, the absence of space agencies in most countries added to the lack of integration of active project’s databases translates into a weak rate of emergence of new ventures.
+
+
 
 FALTA HABLAR DE LAS CONSECUENCIAS QUE TIENE LO ANTERIOR, QUIZAS AHONDAR UN POCO MAS EN EL PROBLEMA, HACIENDO USO DE NÚMEROS
 
