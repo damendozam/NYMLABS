@@ -5,7 +5,7 @@ _**Space Development Everywhere**_
 <br>
 <p align="center">
 NymLabs is a web-app that aims to boost the emergence of new space technology ventures from promoting collaborative work and visibility of space projects in addition to the access to local and international resources and services. 
-Any person or organization interested in developing, collaborating, or enrolling in a project could create an account and either add a new project or request to work on another project. All the projects will be visible and categorized in web-app. The users could follow all the projects or tags of their interest. Project leaders looking to onboard new people could access selected user profiles that fit the project requirements.  Project members will have access to a service catalog, where they can find local services, great services, and support materials. Local businesses could display their services through catalog services. Large services and resources, such as NASA Open Data Sets or AWS Cloud Platforms, will also show up in the Service Catalog.
+Any person or organization interested in developing, collaborating, or enrolling in a project could create an account and either add a new project or request to work on another project. All the projects will be visible and categorized in web-app. The users could follow all the projects or tags of their interest. Project leaders looking to onboard new people could access selected user profiles that fit the project requirements.  Project members will have access to a service catalog, where they can find local services, long-scale services, and support content. Local businesses could display their services through catalog services. Large services and resources, such as NASA Open Data Sets or AWS Cloud Platforms, will also show up in the Service Catalog.
 </p>
 
 
@@ -19,8 +19,8 @@ Any person or organization interested in developing, collaborating, or enrolling
         * [General Feed](#general-feed)
       * [Services catalog](#services-catalog)
         * [Local Services](#local-services)
-        * [Big Services](#big-services)
-      * [Help material](#material)
+        * [Long-Scale Services](#long-scale-services)
+        * [support content](#support-content)
       * [My account](#my-account)
    * [Impact](#impact)
    * [References](#references)
@@ -54,9 +54,9 @@ AQUI SE MUESTRAN SUGUERENCIAS TALES COMO NUEVOS PROYECTOS SIMILARES A LOS QUE SI
 
 #### Local Services
 a
-#### Big Services
+#### Long-scale Services
 a
-#### Help Material
+#### Support Content
 a
 #### My Account
 a
