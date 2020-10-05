@@ -54,7 +54,7 @@ Every project created in the platform counts with a defined structure. This stru
 
 In order to specify the type of project, if they are looking to onboard new people and if the kind of enrollment, we use the following 5 symbols. 
 
-IMAGEN CON LOS SÍMBOLOS, INDICANDO QUÉ SIGNIFICA CADA UNO
+<img src="Images/symbols.png" width="100%"> 
 
 The users could filter their searches by those 5 symbols. We also use a tag system to make filtering by topics. These tags are provided by the creator of the project profile.
 <p align="center">
