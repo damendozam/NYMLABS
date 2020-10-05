@@ -22,9 +22,8 @@ Any person or organization interested in developing, collaborating, or enrolling
         * [Technology Resources](#technology-resources)
         * [support content](#support-content)
       * [My account](#my-account)
-   * [Impact](#impact)
-   * [The Team](#the-team)
-   * [References](#references)
+   * [Motivation](#motivation)
+
 <!--te-->
 
 ## Description of the problem
@@ -146,14 +145,13 @@ This section is a configuration section. Shows information related to users, suc
 <img src="Images/10.png" width="100%"> 
 
 
-## IMPACT
+## MOTIVATION
 
-This platform improves communication and connection between high level companies, low level companies and space enthusiasts making it easier to join efforts to get more impactful and wider developments that can be appreciated by bigger companies, institutions and gubernamental entities.
+In NymLabs, we all are developers and the majority of the team has experiences in space technology developments, going from research until the creation of startups.
 
-## THE TEAM
+Every time we start a new project, we find just in front of us, the wall of the no-documentation, it is not easy to build a regional state of art and, consequently, look for a possible collaboration. Through the assistance and organization of regional events, we had the chance to realize the great number of people and teams who are working in space developments. However, we have also noted that they share our same issues about the absence of an updated and integrated central database or platform.
 
-FOTO DE TODOS
+We firmly believe that the creation of this platform will improve and consolidate the space technology teams' network, resulting in more collaborations and sharing of knowledge. We are also convinced that the promotion of local qualified services and products will reinforce and take to the next level the space technology working.
 
-## REFERENCES
-a
+In order to promote the sharing of information, we think that as creators of this platform we need to walk the first step, that is why we will gather and classify valuable resources from space agencies (Just like Open Datasets) and finally put it to the disposal of the community, trying to make easier the first steps on the arising of new ventures.
 
