@@ -87,9 +87,9 @@ All projects with tags similar to the projects you follow, each new project from
 <img src="Images/6.png" width="33%"> 
 </p>
 
-### Services Cataloge
+### Services Catalog
 
-This section is divided into 3 main subsections, Local services, Large-Scale Services and Support Content. 
+This section is divided into 3 main subsections, Local Resources, Technology Resources and Support Content. 
 
 #### Local Resources
 
